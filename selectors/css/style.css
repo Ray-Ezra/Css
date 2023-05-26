@@ -1,0 +1,28 @@
+html{
+    font-size: 17px;
+}
+body {
+   
+}
+main{
+    font-family: sans-serif;
+}
+h1, h2{
+    color: blue;
+}
+.ray {
+    color: gray;
+}
+p {
+    color: rgb(0, 255, 0);
+}
+p {
+    color: red;
+}
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+#second{
+    font-style: italic;
+}
